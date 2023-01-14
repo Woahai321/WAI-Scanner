@@ -11,8 +11,8 @@ const Logo = () => {
       sm:text-lg text-md
       "
     >
-      <img src={logoSvg} alt="WAI Scanner" className="w-[25%] h-auto" />
-      <span>WAI Scanner</span>
+      <img src={logoSvg} alt="CryptoBucks" className="w-[25%] h-auto" />
+      <span>CryptoBucks</span>
     </Link>
   );
 };
