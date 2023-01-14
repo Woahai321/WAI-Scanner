@@ -3,12 +3,12 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
-      fontFamily: { nunito: "Nunito" },
+      fontFamily: { inconsolata: "Inconsolata" },
     },
     colors: {
       gray: { 100: "#808080", 200: "#323232", 300: "#212121" },
       white: "#fff",
-      cyan: "#14ffec",
+      cyan: "#bc7bf9",
       red: "#d6436e",
       green: "#25da72",
     },
