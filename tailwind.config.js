@@ -3,7 +3,7 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
-      fontFamily: { inconsolata: "Inconsolata" },
+      fontFamily: { space mono: "Space Mono" },
     },
     colors: {
       gray: { 100: "#808080", 200: "#323232", 300: "#212121" },
