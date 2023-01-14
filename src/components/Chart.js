@@ -40,8 +40,8 @@ const ChartComponent = ({ chartData, type, currency }) => {
         <Line
           type="monotone"
           dataKey={type}
-          stroke="#BCF97B"
-          strokeWidth={"1px"}
+          stroke="#14ffec"
+          strokeWidth={"2px"}
         />
         <XAxis dataKey="date" hide />
         <YAxis dataKey={type} domain={["auto", "auto"]} hide />
