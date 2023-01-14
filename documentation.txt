@@ -1,0 +1,40 @@
+Tutorial URL: https://youtu.be/JPlVb3t6kx8
+Starter Code Files: https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application
+
+
+Steps to run
+
+    - Make sure you unrar/unzip all the files first 
+    - Make sure to have NodeJS installed in your system
+    - Make sure to open this directory in Terminal / CMD
+    - Run npm install
+    - Run npm start
+
+For figma file:
+    - Open the figma and upload the given fig file directly into the file explorer
+
+External Libraries used in this project: 
+
+    - https://tailwindcss.com/
+    - https://recharts.org/en-US/
+
+
+- Fonts from https://fonts.google.com/ <br />
+- Icons from https://iconify.design/ <br />
+- API from https://www.coingecko.com/en/api <br />   
+
+
+Special Thanks to coingecko(https://www.coingecko.com) for providing such api. 
+
+
+- If you're using this project for commercial use then make sure to use right license if there is any.
+    
+Thank You So Much for purchasing this Project and Supporting My Channel!
+
+If you have any question or You want me to make project then You can reach out to me via:
+
+E-mail : codebucks27@gmail.com
+Twitter: https://twitter.com/code_bucks
+Instagram: https://www.instagram.com/code.bucks/
+
+MyChannel: https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA
